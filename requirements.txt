@@ -2,7 +2,7 @@ allure-pytest==2.13.5
 allure-python-commons==2.13.5
 attrs==23.2.0
 behave==1.2.6
-certifi==2024.2.2
+certifi==2024.8.30
 cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
