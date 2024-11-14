@@ -30,7 +30,7 @@ pyperclip==1.8.2
 PyRect==0.2.0
 PyScreeze==0.1.30
 PySocks==1.7.1
-pytest==8.1.1
+pytest==8.3.3
 pytest-html==4.1.1
 pytest-metadata==3.1.1
 pytest-print==1.0.0
